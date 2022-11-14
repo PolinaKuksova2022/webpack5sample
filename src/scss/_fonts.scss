@@ -1,0 +1,14 @@
+//  подключение шрифтов через плагин
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,regular,500,600,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Commissioner:100,200,300,regular,500,600,700,800,900);
+// шрифты по умолчанию
+//$fontFamily: "Open Sans", sans-serif;
+.title {
+    font-family:  "Commissioner", sans-serif;
+    font-weight: 900;
+}
+.title-2 {
+    font-family:  "Montserrat", sans-serif;
+    font-weight: 700;
+}
